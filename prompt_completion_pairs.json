@@ -1,0 +1,1486 @@
+[
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Hand Tossed\nType: Cheeses Pizza\nSize: Small (10\")\nPrice: $5.99",
+    "completion": "Domino's Pizza offers a 'Hand Tossed' pizza, which is a 'Cheeses Pizza' type, available in 'Small (10\")' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Hand Tossed\nType: Cheeses Pizza\nSize: Medium (12\")\nPrice: $7.99",
+    "completion": "Domino's Pizza offers a 'Hand Tossed' pizza, which is a 'Cheeses Pizza' type, available in 'Medium (12\")' size, priced at $7.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Hand Tossed\nType: Cheeses Pizza\nSize: Large (14\")\nPrice: $9.99",
+    "completion": "Domino's Pizza offers a 'Hand Tossed' pizza, which is a 'Cheeses Pizza' type, available in 'Large (14\")' size, priced at $9.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Handmade Pan\nType: Cheeses Pizza\nSize: Medium (12\")\nPrice: $7.99",
+    "completion": "Domino's Pizza offers a 'Handmade Pan' pizza, which is a 'Cheeses Pizza' type, available in 'Medium (12\")' size, priced at $7.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Crunchy Thin Crust\nType: Cheeses Pizza\nSize: Small (10\")\nPrice: $5.99",
+    "completion": "Domino's Pizza offers a 'Crunchy Thin Crust' pizza, which is a 'Cheeses Pizza' type, available in 'Small (10\")' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Crunchy Thin Crust\nType: Cheeses Pizza\nSize: Medium (12\")\nPrice: $7.99",
+    "completion": "Domino's Pizza offers a 'Crunchy Thin Crust' pizza, which is a 'Cheeses Pizza' type, available in 'Medium (12\")' size, priced at $7.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Crunchy Thin Crust\nType: Cheeses Pizza\nSize: Large (14\")\nPrice: $9.99",
+    "completion": "Domino's Pizza offers a 'Crunchy Thin Crust' pizza, which is a 'Cheeses Pizza' type, available in 'Large (14\")' size, priced at $9.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Brooklyn Style\nType: Cheeses Pizza\nSize: Large (14\")\nPrice: $9.99",
+    "completion": "Domino's Pizza offers a 'Brooklyn Style' pizza, which is a 'Cheeses Pizza' type, available in 'Large (14\")' size, priced at $9.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Brooklyn Style\nType: Cheeses Pizza\nSize: X-Large (16\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Brooklyn Style' pizza, which is a 'Cheeses Pizza' type, available in 'X-Large (16\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Gluten Free Crust\nType: Cheeses Pizza\nSize: Small (10\")\nPrice: $8.99",
+    "completion": "Domino's Pizza offers a 'Gluten Free Crust' pizza, which is a 'Cheeses Pizza' type, available in 'Small (10\")' size, priced at $8.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Spinach & Feta (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Spinach & Feta (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Spinach & Feta (Hand Tossed, Handmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Spinach & Feta (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Spinach & Feta (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Spinach & Feta (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Spinach & Feta (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Spinach & Feta (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Spinach & Feta (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Spinach & Feta (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Wisconsin 6 Cheese (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Wisconsin 6 Cheese (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Wisconsin 6 Cheese (Hand Tossed, Handmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Wisconsin 6 Cheese (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Wisconsin 6 Cheese (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Wisconsin 6 Cheese (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Wisconsin 6 Cheese (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Wisconsin 6 Cheese (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Wisconsin 6 Cheese (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Wisconsin 6 Cheese (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Honolulu Hawaiian (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Honolulu Hawaiian (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Honolulu Hawaiian (Hand Tossed, Handmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Honolulu Hawaiian (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Honolulu Hawaiian (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Honolulu Hawaiian (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Honolulu Hawaiian (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Honolulu Hawaiian (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Honolulu Hawaiian (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Honolulu Hawaiian (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Philly Cheese Steak (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Philly Cheese Steak (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Philly Cheese Steak (Hand Tossed, Handmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Philly Cheese Steak (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Philly Cheese Steak (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Philly Cheese Steak (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Philly Cheese Steak (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Philly Cheese Steak (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Philly Cheese Steak (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Philly Cheese Steak (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Pacific Veggie (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Pacific Veggie (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Pacific Veggie (Hand Tossed, Handmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Pacific Veggie (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Pacific Veggie (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Pacific Veggie (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Pacific Veggie (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Pacific Veggie (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Pacific Veggie (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Pacific Veggie (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Hand Tossed, Handmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Cali Chicken Bacon Ranch\u00e2\u201e\u00a2 (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Fiery Hawaiian\u00e2\u201e\u00a2 (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Fiery Hawaiian\u00e2\u201e\u00a2 (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Fiery Hawaiian\u00e2\u201e\u00a2 (Hand Tossed, Handmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Fiery Hawaiian\u00e2\u201e\u00a2 (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Fiery Hawaiian\u00e2\u201e\u00a2 (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Fiery Hawaiian\u00e2\u201e\u00a2 (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Fiery Hawaiian\u00e2\u201e\u00a2 (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Fiery Hawaiian\u00e2\u201e\u00a2 (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Fiery Hawaiian\u00e2\u201e\u00a2 (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Fiery Hawaiian\u00e2\u201e\u00a2 (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Buffalo Chicken (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Buffalo Chicken (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Buffalo Chicken (Hand Tossed, Handmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Buffalo Chicken (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Buffalo Chicken (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Buffalo Chicken (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Buffalo Chicken (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Buffalo Chicken (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Buffalo Chicken (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Buffalo Chicken (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Memphis BBQ Chicken (Hand Tossed or Thin Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Memphis BBQ Chicken (Hand Tossed or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Memphis BBQ Chicken (Hand Tossed, Hnadmade Pan or Thin Crust)\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Memphis BBQ Chicken (Hand Tossed, Hnadmade Pan or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Memphis BBQ Chicken (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Memphis BBQ Chicken (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Memphis BBQ Chicken (Brooklyn Style)\nType: Specialty Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Memphis BBQ Chicken (Brooklyn Style)' pizza, which is a 'Specialty Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Memphis BBQ Chicken (Gluten Free Crust)\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Memphis BBQ Chicken (Gluten Free Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: America's Favorite Feast\u00c2\u00ae (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'America's Favorite Feast\u00c2\u00ae (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: America's Favorite Feast\u00c2\u00ae (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'America's Favorite Feast\u00c2\u00ae (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: America's Favorite Feast\u00c2\u00ae (Handmade Pan)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $15.49",
+    "completion": "Domino's Pizza offers a 'America's Favorite Feast\u00c2\u00ae (Handmade Pan)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: America's Favorite Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Feast Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'America's Favorite Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: America's Favorite Feast\u00c2\u00ae (Brooklyn Style)\nType: Feast Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'America's Favorite Feast\u00c2\u00ae (Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: America's Favorite Feast\u00c2\u00ae (Gluten Free Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'America's Favorite Feast\u00c2\u00ae (Gluten Free Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Bacon Cheeseburger Feast\u00c2\u00ae (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Bacon Cheeseburger Feast\u00c2\u00ae (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Bacon Cheeseburger Feast\u00c2\u00ae (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Bacon Cheeseburger Feast\u00c2\u00ae (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Bacon Cheeseburger Feast\u00c2\u00ae (Handmade Pan)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $15.49",
+    "completion": "Domino's Pizza offers a 'Bacon Cheeseburger Feast\u00c2\u00ae (Handmade Pan)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Bacon Cheeseburger Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Feast Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Bacon Cheeseburger Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Bacon Cheeseburger Feast\u00c2\u00ae (Brooklyn Style)\nType: Feast Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Bacon Cheeseburger Feast\u00c2\u00ae (Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Bacon Cheeseburger Feast\u00c2\u00ae (Gluten Free Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Bacon Cheeseburger Feast\u00c2\u00ae (Gluten Free Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Deluxe Feast\u00c2\u00ae (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Deluxe Feast\u00c2\u00ae (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Deluxe Feast\u00c2\u00ae (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Deluxe Feast\u00c2\u00ae (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Deluxe Feast\u00c2\u00ae (Handmade Pan)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $15.49",
+    "completion": "Domino's Pizza offers a 'Deluxe Feast\u00c2\u00ae (Handmade Pan)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Deluxe Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Feast Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Deluxe Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Deluxe Feast\u00c2\u00ae (Brooklyn Style)\nType: Feast Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Deluxe Feast\u00c2\u00ae (Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Deluxe Feast\u00c2\u00ae (Gluten Free Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Deluxe Feast\u00c2\u00ae (Gluten Free Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: ExtravaganZZa Feast\u00c2\u00ae (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'ExtravaganZZa Feast\u00c2\u00ae (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: ExtravaganZZa Feast\u00c2\u00ae (Hand Tossed, Handmade Pan or Thin Crust)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'ExtravaganZZa Feast\u00c2\u00ae (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: ExtravaganZZa Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Feast Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'ExtravaganZZa Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: ExtravaganZZa Feast\u00c2\u00ae (Brooklyn Style)\nType: Feast Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'ExtravaganZZa Feast\u00c2\u00ae (Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: ExtravaganZZa Feast\u00c2\u00ae (Gluten Free Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'ExtravaganZZa Feast\u00c2\u00ae (Gluten Free Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: MeatZZa Feast\u00c2\u00ae (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'MeatZZa Feast\u00c2\u00ae (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: MeatZZa Feast\u00c2\u00ae (Hand Tossed, Handmade Pan or Thin Crust)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'MeatZZa Feast\u00c2\u00ae (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: MeatZZa Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Feast Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'MeatZZa Feast\u00c2\u00ae (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: MeatZZa Feast\u00c2\u00ae (Brooklyn Style)\nType: Feast Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'MeatZZa Feast\u00c2\u00ae (Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: MeatZZa Feast\u00c2\u00ae (Gluten Free Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'MeatZZa Feast\u00c2\u00ae (Gluten Free Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Hand Tossed or Thin Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $11.99",
+    "completion": "Domino's Pizza offers a 'Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Hand Tossed or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Hand Tossed, Handmade Pan or Thin Crust)\nType: Feast Pizzas\nSize: Medium (12\")\nPrice: $13.99",
+    "completion": "Domino's Pizza offers a 'Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Hand Tossed, Handmade Pan or Thin Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Medium (12\")' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Hand Tossed, Thin Crust or Brooklyn Style)\nType: Feast Pizzas\nSize: Large (14\")\nPrice: $15.99",
+    "completion": "Domino's Pizza offers a 'Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Hand Tossed, Thin Crust or Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'Large (14\")' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Brooklyn Style)\nType: Feast Pizzas\nSize: X-Large (16\")\nPrice: $17.99",
+    "completion": "Domino's Pizza offers a 'Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Brooklyn Style)' pizza, which is a 'Feast Pizzas' type, available in 'X-Large (16\")' size, priced at $17.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Domino's Pizza\nPizza Name: Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Gluten Free Crust)\nType: Feast Pizzas\nSize: Small (10\")\nPrice: $14.99",
+    "completion": "Domino's Pizza offers a 'Ultimate Pepperoni Feast\u00e2\u201e\u00a2 (Gluten Free Crust)' pizza, which is a 'Feast Pizzas' type, available in 'Small (10\")' size, priced at $14.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hand-Tossed\nType: Cheese Pizza\nSize: Medium\nPrice: $8.49",
+    "completion": "Pizza Hut offers a 'Hand-Tossed' pizza, which is a 'Cheese Pizza' type, available in 'Medium' size, priced at $8.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hand-Tossed\nType: Cheese Pizza\nSize: Large\nPrice: $10.49",
+    "completion": "Pizza Hut offers a 'Hand-Tossed' pizza, which is a 'Cheese Pizza' type, available in 'Large' size, priced at $10.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pan Pizza\nType: Cheese Pizza\nSize: Personal\nPrice: $4.29",
+    "completion": "Pizza Hut offers a 'Pan Pizza' pizza, which is a 'Cheese Pizza' type, available in 'Personal' size, priced at $4.29."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pan Pizza\nType: Cheese Pizza\nSize: Medium\nPrice: $8.49",
+    "completion": "Pizza Hut offers a 'Pan Pizza' pizza, which is a 'Cheese Pizza' type, available in 'Medium' size, priced at $8.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pan Pizza\nType: Cheese Pizza\nSize: Large\nPrice: $10.49",
+    "completion": "Pizza Hut offers a 'Pan Pizza' pizza, which is a 'Cheese Pizza' type, available in 'Large' size, priced at $10.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Thin N Crispy\nType: Cheese Pizza\nSize: Medium\nPrice: $8.49",
+    "completion": "Pizza Hut offers a 'Thin N Crispy' pizza, which is a 'Cheese Pizza' type, available in 'Medium' size, priced at $8.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Thin N Crispy\nType: Cheese Pizza\nSize: Large\nPrice: $10.49",
+    "completion": "Pizza Hut offers a 'Thin N Crispy' pizza, which is a 'Cheese Pizza' type, available in 'Large' size, priced at $10.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Stuffed Crust\nType: Cheese Pizza\nSize: Large\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Stuffed Crust' pizza, which is a 'Cheese Pizza' type, available in 'Large' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Skinny Slice\nType: Cheese Pizza\nSize: Large\nPrice: $10.49",
+    "completion": "Pizza Hut offers a 'Skinny Slice' pizza, which is a 'Cheese Pizza' type, available in 'Large' size, priced at $10.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $17.49",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $17.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pepperoni Lover's\u00c2\u00ae Pizza (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Pepperoni Lover's\u00c2\u00ae Pizza (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $17.49",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $17.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Meat Lover's\u00c2\u00ae Pizza (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Meat Lover's\u00c2\u00ae Pizza (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $17.49",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $17.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Ultimate Cheese Lover's Pizza (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Ultimate Cheese Lover's Pizza (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $17.49",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $17.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Veggie Lover's\u00c2\u00ae Pizza (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Veggie Lover's\u00c2\u00ae Pizza (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $17.49",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $17.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Supreme Pizza (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Supreme Pizza (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $17.49",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $17.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Lover's\u00e2\u201e\u00a2 (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'BBQ Lover's\u00e2\u201e\u00a2 (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $13.49",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $13.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $16.49",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $5.29",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $5.29."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $13.49",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $13.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $16.49",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $13.49",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $13.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $16.49",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $18.49",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $18.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Chicken Supreme Pizza (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $16.49",
+    "completion": "Pizza Hut offers a 'Chicken Supreme Pizza (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $17.49",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $17.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: New Primo Meat Pizza (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'New Primo Meat Pizza (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $17.49",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $17.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hawaiian Luau (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Hawaiian Luau (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $13.49",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $13.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Hand-Tossed)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $16.49",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Hand-Tossed)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Personal\nPrice: $5.29",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Personal' size, priced at $5.29."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $13.49",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $13.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Pan Pizza)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $16.49",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Pan Pizza)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Medium\nPrice: $13.49",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Medium' size, priced at $13.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Thin N Crispy)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $16.49",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Thin N Crispy)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Stuffed Crust)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $18.49",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Stuffed Crust)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $18.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Super Supreme Pizza (Skinny Slice)\nType: Classic Recipe Pizzas\nSize: Large\nPrice: $16.49",
+    "completion": "Pizza Hut offers a 'Super Supreme Pizza (Skinny Slice)' pizza, which is a 'Classic Recipe Pizzas' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Garden Party\u00e2\u201e\u00a2 (Thin N Crispy)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Garden Party\u00e2\u201e\u00a2 (Thin N Crispy)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Garden Party\u00e2\u201e\u00a2 (Thin N Crispy)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Garden Party\u00e2\u201e\u00a2 (Thin N Crispy)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Old Fashioned Meatbrawl\u00e2\u201e\u00a2 (Pan Pizza)\nType: New Recipe Pizzas\nSize: Personal\nPrice: $4.79",
+    "completion": "Pizza Hut offers a 'Old Fashioned Meatbrawl\u00e2\u201e\u00a2 (Pan Pizza)' pizza, which is a 'New Recipe Pizzas' type, available in 'Personal' size, priced at $4.79."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Old Fashioned Meatbrawl\u00e2\u201e\u00a2 (Pan Pizza)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Old Fashioned Meatbrawl\u00e2\u201e\u00a2 (Pan Pizza)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Old Fashioned Meatbrawl\u00e2\u201e\u00a2 (Pan Pizza)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Old Fashioned Meatbrawl\u00e2\u201e\u00a2 (Pan Pizza)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Cock-a-doodle Bacon\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Cock-a-doodle Bacon\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Cock-a-doodle Bacon\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Cock-a-doodle Bacon\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hot and Twisted\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Hot and Twisted\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Hot and Twisted\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Hot and Twisted\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pretzel Piggy\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Pretzel Piggy\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Pretzel Piggy\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Pretzel Piggy\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Bacon Cheeseburger (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'BBQ Bacon Cheeseburger (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: BBQ Bacon Cheeseburger (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'BBQ Bacon Cheeseburger (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Giddy-Up BBQ Chicken\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Giddy-Up BBQ Chicken\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Giddy-Up BBQ Chicken\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Giddy-Up BBQ Chicken\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Buffalo State of Mind\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Buffalo State of Mind\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Buffalo State of Mind\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Buffalo State of Mind\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Cherry Pepper Bombshell\u00e2\u201e\u00a2 (Thin N Crispy)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a 'Cherry Pepper Bombshell\u00e2\u201e\u00a2 (Thin N Crispy)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Cherry Pepper Bombshell\u00e2\u201e\u00a2 (Thin N Crispy)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Cherry Pepper Bombshell\u00e2\u201e\u00a2 (Thin N Crispy)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: 7-Alarm Fire\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Medium\nPrice: $12.49",
+    "completion": "Pizza Hut offers a '7-Alarm Fire\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Medium' size, priced at $12.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: 7-Alarm Fire\u00e2\u201e\u00a2 (Hand-Tossed)\nType: New Recipe Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a '7-Alarm Fire\u00e2\u201e\u00a2 (Hand-Tossed)' pizza, which is a 'New Recipe Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Skinny Beach\u00e2\u201e\u00a2 (Skinny Slice)\nType: Skinny Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Skinny Beach\u00e2\u201e\u00a2 (Skinny Slice)' pizza, which is a 'Skinny Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Skinny With A Kick\u00e2\u201e\u00a2 (Skinny Slice)\nType: Skinny Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Skinny With A Kick\u00e2\u201e\u00a2 (Skinny Slice)' pizza, which is a 'Skinny Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Skinny Italy (Skinny Slice)\nType: Skinny Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Skinny Italy (Skinny Slice)' pizza, which is a 'Skinny Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Skinny Luau\u00e2\u201e\u00a2 (Skinny Slice)\nType: Skinny Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Skinny Luau\u00e2\u201e\u00a2 (Skinny Slice)' pizza, which is a 'Skinny Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Skinny Club\u00e2\u201e\u00a2 (Skinny Slice)\nType: Skinny Pizzas\nSize: Large\nPrice: $15.49",
+    "completion": "Pizza Hut offers a 'Skinny Club\u00e2\u201e\u00a2 (Skinny Slice)' pizza, which is a 'Skinny Pizzas' type, available in 'Large' size, priced at $15.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Pizza Hut\nPizza Name: Create Your Own (Gluten-Free Crust)\nType: Gluten-Free Pizzas\nSize: Small\nPrice: $9.99",
+    "completion": "Pizza Hut offers a 'Create Your Own (Gluten-Free Crust)' pizza, which is a 'Gluten-Free Pizzas' type, available in 'Small' size, priced at $9.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Cheese (Original Crust)\nType: Cheese Pizza\nSize: Mini\nPrice: $4.99",
+    "completion": "Godfather's Pizza offers a 'Cheese (Original Crust)' pizza, which is a 'Cheese Pizza' type, available in 'Mini' size, priced at $4.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Cheese (Original or Golden Crust)\nType: Cheese Pizza\nSize: Small\nPrice: $10.99",
+    "completion": "Godfather's Pizza offers a 'Cheese (Original or Golden Crust)' pizza, which is a 'Cheese Pizza' type, available in 'Small' size, priced at $10.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Cheese (Original, Golden or Thin Crust)\nType: Cheese Pizza\nSize: Medium\nPrice: $12.99",
+    "completion": "Godfather's Pizza offers a 'Cheese (Original, Golden or Thin Crust)' pizza, which is a 'Cheese Pizza' type, available in 'Medium' size, priced at $12.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Cheese (Mozza-Loaded Crust)\nType: Cheese Pizza\nSize: Medium\nPrice: $13.49",
+    "completion": "Godfather's Pizza offers a 'Cheese (Mozza-Loaded Crust)' pizza, which is a 'Cheese Pizza' type, available in 'Medium' size, priced at $13.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Cheese (Original, Golden or Thin Crust)\nType: Cheese Pizza\nSize: Large\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Cheese (Original, Golden or Thin Crust)' pizza, which is a 'Cheese Pizza' type, available in 'Large' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Cheese (Mozza-Loaded Crust)\nType: Cheese Pizza\nSize: Large\nPrice: $16.49",
+    "completion": "Godfather's Pizza offers a 'Cheese (Mozza-Loaded Crust)' pizza, which is a 'Cheese Pizza' type, available in 'Large' size, priced at $16.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Cheese (Original or Thin Crust)\nType: Cheese Pizza\nSize: Jumbo\nPrice: $18.99",
+    "completion": "Godfather's Pizza offers a 'Cheese (Original or Thin Crust)' pizza, which is a 'Cheese Pizza' type, available in 'Jumbo' size, priced at $18.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: All-Meat Combo Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'All-Meat Combo Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: All-Meat Combo Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'All-Meat Combo Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: All-Meat Combo Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'All-Meat Combo Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: All-Meat Combo Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'All-Meat Combo Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: All-Meat Combo Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'All-Meat Combo Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: All-Meat Combo Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'All-Meat Combo Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Bacon Cheeseburger Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Bacon Cheeseburger Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Bacon Cheeseburger Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Bacon Cheeseburger Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Bacon Cheeseburger Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Bacon Cheeseburger Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Bacon Cheeseburger Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Bacon Cheeseburger Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Bacon Cheeseburger Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Bacon Cheeseburger Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Taco Pie Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Taco Pie Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Taco Pie Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Taco Pie Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Taco Pie Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Taco Pie Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Taco Pie Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Taco Pie Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Taco Pie Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Taco Pie Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Taco Pie Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Taco Pie Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Taco Pie Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Taco Pie Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Classic Combo Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Classic Combo Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Classic Combo Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Classic Combo Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Classic Combo Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Classic Combo Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Classic Combo Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Classic Combo Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Classic Combo Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Classic Combo Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Classic Combo Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Classic Combo Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Classic Combo Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Classic Combo Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Humble Pie Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Humble Pie Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Humble Pie Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Humble Pie Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Humble Pie Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Humble Pie Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Humble Pie Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Humble Pie Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Humble Pie Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Humble Pie Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Humble Pie Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Humble Pie Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Humble Pie Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Humble Pie Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Veggie Pie Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Veggie Pie Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Veggie Pie Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Veggie Pie Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Veggie Pie Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Veggie Pie Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Veggie Pie Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Veggie Pie Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Veggie Pie Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Veggie Pie Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Veggie Pie Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Veggie Pie Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Veggie Pie Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Veggie Pie Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hot Stuff Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Hot Stuff Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hot Stuff Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Hot Stuff Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hot Stuff Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Hot Stuff Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hot Stuff Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Hot Stuff Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hot Stuff Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Hot Stuff Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hot Stuff Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Hot Stuff Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hot Stuff Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Hot Stuff Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hawaiian Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Hawaiian Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hawaiian Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Hawaiian Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hawaiian Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Hawaiian Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hawaiian Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Hawaiian Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hawaiian Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Hawaiian Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hawaiian Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Hawaiian Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Hawaiian Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Hawaiian Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BLT Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'BLT Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BLT Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'BLT Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BLT Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'BLT Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BLT Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'BLT Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BLT Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'BLT Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BLT Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'BLT Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BLT Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'BLT Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Buffalo Chicken Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Buffalo Chicken Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Buffalo Chicken Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Buffalo Chicken Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Buffalo Chicken Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Buffalo Chicken Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Buffalo Chicken Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Buffalo Chicken Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Buffalo Chicken Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Buffalo Chicken Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Buffalo Chicken Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Buffalo Chicken Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Buffalo Chicken Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Buffalo Chicken Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Combo Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $16.99",
+    "completion": "Godfather's Pizza offers a 'Super Combo Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $16.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Combo Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $21.99",
+    "completion": "Godfather's Pizza offers a 'Super Combo Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $21.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Combo Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.49",
+    "completion": "Godfather's Pizza offers a 'Super Combo Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Combo Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $25.99",
+    "completion": "Godfather's Pizza offers a 'Super Combo Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $25.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Combo Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.49",
+    "completion": "Godfather's Pizza offers a 'Super Combo Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Combo Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $29.99",
+    "completion": "Godfather's Pizza offers a 'Super Combo Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $29.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Hawaiian Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $16.99",
+    "completion": "Godfather's Pizza offers a 'Super Hawaiian Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $16.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Hawaiian Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $21.99",
+    "completion": "Godfather's Pizza offers a 'Super Hawaiian Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $21.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Hawaiian Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.49",
+    "completion": "Godfather's Pizza offers a 'Super Hawaiian Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Hawaiian Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $25.99",
+    "completion": "Godfather's Pizza offers a 'Super Hawaiian Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $25.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Hawaiian Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.49",
+    "completion": "Godfather's Pizza offers a 'Super Hawaiian Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Hawaiian Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $29.99",
+    "completion": "Godfather's Pizza offers a 'Super Hawaiian Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $29.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Taco Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $16.99",
+    "completion": "Godfather's Pizza offers a 'Super Taco Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $16.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Taco Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $21.99",
+    "completion": "Godfather's Pizza offers a 'Super Taco Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $21.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Taco Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.49",
+    "completion": "Godfather's Pizza offers a 'Super Taco Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Taco Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $25.99",
+    "completion": "Godfather's Pizza offers a 'Super Taco Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $25.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Taco Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.49",
+    "completion": "Godfather's Pizza offers a 'Super Taco Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Taco Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $29.99",
+    "completion": "Godfather's Pizza offers a 'Super Taco Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $29.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: The Don (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $16.99",
+    "completion": "Godfather's Pizza offers a 'The Don (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $16.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: The Don (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $21.99",
+    "completion": "Godfather's Pizza offers a 'The Don (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $21.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: The Don (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.49",
+    "completion": "Godfather's Pizza offers a 'The Don (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: The Don (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $25.99",
+    "completion": "Godfather's Pizza offers a 'The Don (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $25.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: The Don (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.49",
+    "completion": "Godfather's Pizza offers a 'The Don (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: The Don (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $29.99",
+    "completion": "Godfather's Pizza offers a 'The Don (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $29.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Veggie Pizza (Original or Golden Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Super Veggie Pizza (Original or Golden Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Veggie Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $20.99",
+    "completion": "Godfather's Pizza offers a 'Super Veggie Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $20.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Veggie Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.49",
+    "completion": "Godfather's Pizza offers a 'Super Veggie Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Veggie Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $24.99",
+    "completion": "Godfather's Pizza offers a 'Super Veggie Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $24.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Veggie Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.49",
+    "completion": "Godfather's Pizza offers a 'Super Veggie Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.49."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Super Veggie Pizza (Original or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $28.99",
+    "completion": "Godfather's Pizza offers a 'Super Veggie Pizza (Original or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $28.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BBQ Bacon Cheeseburger Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'BBQ Bacon Cheeseburger Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Chipotle Chicken and Bacon Pizza (Original Crust)\nType: Specialty Pizzas\nSize: Mini\nPrice: $5.99",
+    "completion": "Godfather's Pizza offers a 'Chipotle Chicken and Bacon Pizza (Original Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Mini' size, priced at $5.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Small\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Small' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $22.24",
+    "completion": "Godfather's Pizza offers a 'Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $22.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $26.23",
+    "completion": "Godfather's Pizza offers a 'Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $26.23."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Jumbo\nPrice: $27.99",
+    "completion": "Godfather's Pizza offers a 'Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Jumbo' size, priced at $27.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Margherita Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $9.99",
+    "completion": "Godfather's Pizza offers a 'Margherita Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $9.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Margherita Pizza (Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $13.99",
+    "completion": "Godfather's Pizza offers a 'Margherita Pizza (Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $13.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Margherita Chicken Pizza (Original, Golden or Thin Crust)\nType: Specialty Pizzas\nSize: Medium\nPrice: $11.99",
+    "completion": "Godfather's Pizza offers a 'Margherita Chicken Pizza (Original, Golden or Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Medium' size, priced at $11.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Margherita Chicken Pizza (Thin Crust)\nType: Specialty Pizzas\nSize: Large\nPrice: $15.99",
+    "completion": "Godfather's Pizza offers a 'Margherita Chicken Pizza (Thin Crust)' pizza, which is a 'Specialty Pizzas' type, available in 'Large' size, priced at $15.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Thin Crust\nType: Gluten-Free Pizzas\nSize: Medium\nPrice: $19.99",
+    "completion": "Godfather's Pizza offers a 'Thin Crust' pizza, which is a 'Gluten-Free Pizzas' type, available in 'Medium' size, priced at $19.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Thin Crust\nType: Gluten-Free Pizzas\nSize: Large\nPrice: $23.99",
+    "completion": "Godfather's Pizza offers a 'Thin Crust' pizza, which is a 'Gluten-Free Pizzas' type, available in 'Large' size, priced at $23.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Original Crust\nType: Express Favorites\nSize: Mini\nPrice: $4.99",
+    "completion": "Godfather's Pizza offers a 'Original Crust' pizza, which is a 'Express Favorites' type, available in 'Mini' size, priced at $4.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Original or Golden Crust\nType: Express Favorites\nSize: Small\nPrice: $12.69",
+    "completion": "Godfather's Pizza offers a 'Original or Golden Crust' pizza, which is a 'Express Favorites' type, available in 'Small' size, priced at $12.69."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Original, Golden or Thin Crust\nType: Express Favorites\nSize: Medium\nPrice: $15.34",
+    "completion": "Godfather's Pizza offers a 'Original, Golden or Thin Crust' pizza, which is a 'Express Favorites' type, available in 'Medium' size, priced at $15.34."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Mozza-Loaded Crust\nType: Express Favorites\nSize: Medium\nPrice: $15.24",
+    "completion": "Godfather's Pizza offers a 'Mozza-Loaded Crust' pizza, which is a 'Express Favorites' type, available in 'Medium' size, priced at $15.24."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Original, Golden or Thin Crust\nType: Express Favorites\nSize: Large\nPrice: $18.69",
+    "completion": "Godfather's Pizza offers a 'Original, Golden or Thin Crust' pizza, which is a 'Express Favorites' type, available in 'Large' size, priced at $18.69."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Mozza-Loaded Crust\nType: Express Favorites\nSize: Large\nPrice: $18.74",
+    "completion": "Godfather's Pizza offers a 'Mozza-Loaded Crust' pizza, which is a 'Express Favorites' type, available in 'Large' size, priced at $18.74."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: Godfather's Pizza\nPizza Name: Original or Thin Crust\nType: Express Favorites\nSize: Jumbo\nPrice: $21.99",
+    "completion": "Godfather's Pizza offers a 'Original or Thin Crust' pizza, which is a 'Express Favorites' type, available in 'Jumbo' size, priced at $21.99."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Deluxe Pizza\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $12.70",
+    "completion": "IMO's Pizza offers a 'Deluxe Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $12.70."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Deluxe Pizza\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $16.20",
+    "completion": "IMO's Pizza offers a 'Deluxe Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $16.20."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Deluxe Pizza\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $19.95",
+    "completion": "IMO's Pizza offers a 'Deluxe Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $19.95."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Deluxe Pizza\nType: Specialty Pizzas\nSize: X Large (16\")\nPrice: $23.85",
+    "completion": "IMO's Pizza offers a 'Deluxe Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'X Large (16\")' size, priced at $23.85."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Veggie Pizza\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $12.70",
+    "completion": "IMO's Pizza offers a 'Veggie Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $12.70."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Veggie Pizza\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $16.20",
+    "completion": "IMO's Pizza offers a 'Veggie Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $16.20."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Veggie Pizza\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $19.95",
+    "completion": "IMO's Pizza offers a 'Veggie Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $19.95."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Veggie Pizza\nType: Specialty Pizzas\nSize: X Large (16\")\nPrice: $23.85",
+    "completion": "IMO's Pizza offers a 'Veggie Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'X Large (16\")' size, priced at $23.85."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Cheese Pizza\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $9.30",
+    "completion": "IMO's Pizza offers a 'Cheese Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $9.30."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Cheese Pizza\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $11.60",
+    "completion": "IMO's Pizza offers a 'Cheese Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $11.60."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Cheese Pizza\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $14.45",
+    "completion": "IMO's Pizza offers a 'Cheese Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $14.45."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Cheese Pizza\nType: Specialty Pizzas\nSize: X Large (16\")\nPrice: $17.35",
+    "completion": "IMO's Pizza offers a 'Cheese Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'X Large (16\")' size, priced at $17.35."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: All Meat Pizza\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $12.70",
+    "completion": "IMO's Pizza offers a 'All Meat Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $12.70."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: All Meat Pizza\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $16.20",
+    "completion": "IMO's Pizza offers a 'All Meat Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $16.20."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: All Meat Pizza\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $19.95",
+    "completion": "IMO's Pizza offers a 'All Meat Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $19.95."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: All Meat Pizza\nType: Specialty Pizzas\nSize: X Large (16\")\nPrice: $23.85",
+    "completion": "IMO's Pizza offers a 'All Meat Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'X Large (16\")' size, priced at $23.85."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: BBQ Chicken Pizza\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $12.70",
+    "completion": "IMO's Pizza offers a 'BBQ Chicken Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $12.70."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: BBQ Chicken Pizza\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $16.20",
+    "completion": "IMO's Pizza offers a 'BBQ Chicken Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $16.20."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: BBQ Chicken Pizza\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $19.20",
+    "completion": "IMO's Pizza offers a 'BBQ Chicken Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $19.20."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: BBQ Chicken Pizza\nType: Specialty Pizzas\nSize: X Large (16\")\nPrice: $23.85",
+    "completion": "IMO's Pizza offers a 'BBQ Chicken Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'X Large (16\")' size, priced at $23.85."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Egg-Ceptional Pizza\nType: Specialty Pizzas\nSize: Small (10\")\nPrice: $11.80",
+    "completion": "IMO's Pizza offers a 'Egg-Ceptional Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Small (10\")' size, priced at $11.80."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Egg-Ceptional Pizza\nType: Specialty Pizzas\nSize: Medium (12\")\nPrice: $14.95",
+    "completion": "IMO's Pizza offers a 'Egg-Ceptional Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Medium (12\")' size, priced at $14.95."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Egg-Ceptional Pizza\nType: Specialty Pizzas\nSize: Large (14\")\nPrice: $18.65",
+    "completion": "IMO's Pizza offers a 'Egg-Ceptional Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'Large (14\")' size, priced at $18.65."
+  },
+  {
+    "prompt": "Generate a summary for the following pizza:\nCompany: IMO's Pizza\nPizza Name: Egg-Ceptional Pizza\nType: Specialty Pizzas\nSize: X Large (16\")\nPrice: $22.30",
+    "completion": "IMO's Pizza offers a 'Egg-Ceptional Pizza' pizza, which is a 'Specialty Pizzas' type, available in 'X Large (16\")' size, priced at $22.30."
+  }
+]
